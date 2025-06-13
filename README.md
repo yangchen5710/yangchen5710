@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi  👋 Nice 2 meet U
+## My name's ycstar
+####  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yangchen5710/count.svg)]() visitor, Thank You!🎉🎉
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yangchen5710&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangchen5710">
 
-<!--
-**yangchen5710/yangchen5710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Sites
 
-Here are some ideas to get you started:
+- Blog: <https://www.ycstar.xyz>
+- GitHub: <https://github.com/yangchen5710>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Contact me
+
+- Email: <yangchenstar5710@gmail.com> 
